@@ -1,0 +1,44 @@
+# Dependency directories
+node_modules/
+
+# Parcel cache directory
+.parcel-cache/
+
+# Build outputs directory
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swp
+*.log
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Three.js specific files
+# Consider ignoring any build artifacts specific to your project
+# For example, if you have custom build scripts or output folders
+
+# Optional: Documentation files
+/docs
